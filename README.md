@@ -19,7 +19,7 @@ Revision History
  > * [Javadoc Format](#javadoc-format)
  > * [Javadoc at Class Level](#javadoc-at-class-level)
  > * [Javadoc at Field Level](#javadoc-at-field-level)
- > * [Javadoc at Method Level(#javadoc-at-method-level)
+ > * [Javadoc at Method Level](#javadoc-at-method-level)
  
 ## Why Have Code Conventions
 
