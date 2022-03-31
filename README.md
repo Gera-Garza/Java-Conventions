@@ -5,7 +5,7 @@ Revision History
 
 | Revision    | Date    | Author | Description| 
 |------------- | -------||------ | -------- |
-| v1.0 | 03-29-2022 | Gerardo Garza| Guide to understand the basic Guidelines in Java draft version
+| v1.0 | 03-29-2022 | Gerardo Garza| Guide to understand the basic Guidelines in Java draft version|
 
 
 ## Why Have Code Conventions
