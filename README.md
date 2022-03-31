@@ -34,7 +34,8 @@ Code conventions are important to programmers for several reasons:
 When naming it is important to keep a mix between upper and lower case but making use of the convention of CamelCase, Lowercase and a mixed case.
 It’s important to keep simple and descriptive names, avoid to use full words and acronyms but some are permitted like DAO,URL,DTO etc..
 Here is a table with some examples:
-![image names table]()
+![image name table](https://user-images.githubusercontent.com/43157958/161159253-dc7f3bf4-bacd-4eb8-bf2f-ffd015c18bf3.png)
+
 
 ### Packages
 
