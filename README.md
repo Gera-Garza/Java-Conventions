@@ -3,11 +3,18 @@
 
 Revision History
 
-| Revision    | Date    | Author | Description| 
-|------------- | -------||------ | -------- |
-| v1.0 | 03-29-2022 | Gerardo Garza| Guide to understand the basic Guidelines in Java draft version|
+| Revision | Date    | Author | Description | 
+| ------------- | ------- | ---- | ------ | 
+| v1.0 | 03-29-2022 | Gerardo Garza| Guide to understand the basic Guidelines in Java draft version |
 
-
+## Table of contents
+ * [Why conventions](#why-have-code-conventions)
+ * [Name Conventions](#name-convention)
+ > * [Packages](#packages)
+ > * [Classes and Interfaces](#classes-and-interfaces)
+ > * [Methods and Variables](#methods-and-variables) 
+ > * [Constants](#constants)
+ * [Error Handling](#error-handling)
 ## Why Have Code Conventions
 
 Code conventions are important to programmers for several reasons:
@@ -31,7 +38,7 @@ For packages names should be in lowercase. With small projects that only have a 
 package pokeranalyzer package mycalculator
 ```
 
-### Classes & Interfaces 
+### Classes and Interfaces
 
 When you have classes and interfaces names should be in CamelCase. Try to use nouns because a class is normally representing something in the real world:
 
